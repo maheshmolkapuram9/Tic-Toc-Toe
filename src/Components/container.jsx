@@ -75,6 +75,7 @@ const Container = () => {
             eachbox.current.innerHTML=""
         })
         setData(["","","","","","","","",""])
+        setCount(0)
     }
 
     return ( 
